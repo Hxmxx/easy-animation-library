@@ -7,8 +7,8 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "outDir": "./dist",
-    "rootDir": "./utils"
+    "rootDir": "src"
   },
-  "include": ["utils/**/*"],
+  "include": ["src/**/*"],
   "exclude": ["node_modules"]
 }
